@@ -1,0 +1,14 @@
+G:\Three\Csh\CompositeFile\CompositeFile\bin\Debug\net8.0\CompositeFile.exe
+G:\Three\Csh\CompositeFile\CompositeFile\bin\Debug\net8.0\CompositeFile.deps.json
+G:\Three\Csh\CompositeFile\CompositeFile\bin\Debug\net8.0\CompositeFile.runtimeconfig.json
+G:\Three\Csh\CompositeFile\CompositeFile\bin\Debug\net8.0\CompositeFile.dll
+G:\Three\Csh\CompositeFile\CompositeFile\bin\Debug\net8.0\CompositeFile.pdb
+G:\Three\Csh\CompositeFile\CompositeFile\obj\Debug\net8.0\CompositeFile.GeneratedMSBuildEditorConfig.editorconfig
+G:\Three\Csh\CompositeFile\CompositeFile\obj\Debug\net8.0\CompositeFile.AssemblyInfoInputs.cache
+G:\Three\Csh\CompositeFile\CompositeFile\obj\Debug\net8.0\CompositeFile.AssemblyInfo.cs
+G:\Three\Csh\CompositeFile\CompositeFile\obj\Debug\net8.0\CompositeFile.csproj.CoreCompileInputs.cache
+G:\Three\Csh\CompositeFile\CompositeFile\obj\Debug\net8.0\CompositeFile.dll
+G:\Three\Csh\CompositeFile\CompositeFile\obj\Debug\net8.0\refint\CompositeFile.dll
+G:\Three\Csh\CompositeFile\CompositeFile\obj\Debug\net8.0\CompositeFile.pdb
+G:\Three\Csh\CompositeFile\CompositeFile\obj\Debug\net8.0\CompositeFile.genruntimeconfig.cache
+G:\Three\Csh\CompositeFile\CompositeFile\obj\Debug\net8.0\ref\CompositeFile.dll
